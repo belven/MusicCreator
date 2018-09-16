@@ -5,7 +5,7 @@ import java.util.List;
 
 public class NotesContainer
 {
-	List<String> notes = new ArrayList<>();
+	List<String> notes = new ArrayList<String>();
 	boolean major = true;
 
 	public NotesContainer(List<String> inNotes, boolean inMajor)
