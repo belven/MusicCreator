@@ -86,8 +86,8 @@ public class MainFrame extends Frame
 
 		add(chordsLabel, constraints);
 		add(chordValuesLabel, constraints);
-		add(availableChordsCombo);
-		add(addChordButton);
+		//add(availableChordsCombo);
+		//add(addChordButton);
 
 		// pack();
 		setVisible(true);
